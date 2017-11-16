@@ -1,0 +1,31 @@
+div{
+  width:160px;
+  height:160px;
+  float:left;
+}
+.white-box{
+  width:20px;
+  height:20px;
+  background-color:white;
+}
+.red-box{
+  width:20px;
+  height:20px;
+  background-color:red;
+}
+.black-checker{
+  width:15px;
+  height:15px;
+  background-color:black;
+  border-radius:50%;
+  border-color:white;
+  z-index:1;
+}
+.white-checker{
+  width:15px;
+  height:15px;
+  background-color:white;
+  border-radius:50%;
+  border-color:black;
+  z-index:1;
+}
